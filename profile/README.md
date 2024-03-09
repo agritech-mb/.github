@@ -1,4 +1,10 @@
+# Overview
+
 ## Our Stack
+
+<div style="margin-left: auto;
+            margin-right: auto;
+            width: 50%">
 
 | Area | Technology | Status |
 | --- | --- | --- |
@@ -11,3 +17,5 @@
 | CI/CD | ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat) | ![Static Badge](https://img.shields.io/badge/status-not_started-8A2BE2) |
 | Monitoring | ![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat) ![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat) | ![Static Badge](https://img.shields.io/badge/status-not_started-8A2BE2) |
 | Code as Infrastructure | ![Terraform Badge](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=fff&style=flat) | ![Static Badge](https://img.shields.io/badge/status-not_started-8A2BE2) |
+
+</div>
